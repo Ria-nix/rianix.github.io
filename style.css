@@ -106,7 +106,7 @@ a {
 }
 .header__button_active::before {
   display: block;
-  content: url("../img/hash.svg");
+  content: url("img/hash.svg");
   margin: 5px 10px 0 0;
 }
 .header__button:last-child {
